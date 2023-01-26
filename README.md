@@ -32,6 +32,7 @@ for i in fp:
 print(d)
 ```
 ### OUTPUT:
+![cmdl](https://user-images.githubusercontent.com/98278161/214896829-4dc8f3f8-c32a-4591-bc0a-b049a44bd049.jpeg)
 
 
 ## RESULT:
