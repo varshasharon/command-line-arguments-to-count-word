@@ -19,10 +19,11 @@ If no, word count equals to 1.
 If yes, word count increments by 1 and the dictionary is printed
 ## PROGRAM:
 ```python
-'''Program
-Delevoped by: E.VARSHA SHARON
-Register number: 22004867
-'''
+
+###Program
+###Delevoped by: E.VARSHA SHARON
+###Register number: 22004867
+
 
 import sys
 fp=open(sys.argv[1],"r")
